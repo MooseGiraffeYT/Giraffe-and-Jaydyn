@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="giraffe.png"><SubTexture name="giraffe idle0000" x="0" y="0" width="152" height="229" frameX="0" frameY="0" frameWidth="152" frameHeight="229" />
+<SubTexture name="giraffe up0000" x="152" y="0" width="229" height="229" frameX="0" frameY="0" frameWidth="229" frameHeight="229" />
+<SubTexture name="giraffe down0000" x="381" y="0" width="92" height="92" frameX="0" frameY="0" frameWidth="92" frameHeight="92" />
+<SubTexture name="giraffe right0000" x="473" y="0" width="229" height="229" frameX="0" frameY="0" frameWidth="229" frameHeight="229" />
+<SubTexture name="giraffe left0000" x="0" y="229" width="154" height="304" frameX="0" frameY="0" frameWidth="154" frameHeight="304" />
+</TextureAtlas>
